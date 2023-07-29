@@ -1,3 +1,3 @@
-const app = () => {
+const app = _ => {
     console.log("Dark Theme")
 }
