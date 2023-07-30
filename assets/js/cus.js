@@ -2,6 +2,7 @@ const app = _ => {
     console.log("Dark Theme")
 }
 
-const software = () => {
+const software = function() {
     console.log("updated version")
 }
+
